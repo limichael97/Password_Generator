@@ -1,5 +1,7 @@
 # Password Generator
 
+![Alt text](./assets/screenshot.jpg?raw=true "Optional title")
+
 ## Purpose
 Do you need to generate a new unique password? Generate a unique password with a click of button!
 
